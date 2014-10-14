@@ -3,7 +3,11 @@
    "value": "File",
    "popup": {
      "menuitem": [
-       {"name":"ATRACCIONES", "backgroundColor":"#668439", "subDirName":"/menu", "filename":"atracciones"}
+       {"name":"ATRACCIONES", "backgroundColor":"#668439", "subDirName":"/menu", "filename":"atracciones"},
+       {"name":"Prueba1", "backgroundColor":"#A9F5BC", "subDirName":"/menu", "filename":"atracciones"},
+       {"name":"Prueba2", "backgroundColor":"#8258FA", "subDirName":"/menu", "filename":"atracciones"},
+       {"name":"Prueba3", "backgroundColor":"#40FF00", "subDirName":"/menu", "filename":"atracciones"}
+       
      ]
    }
  }
