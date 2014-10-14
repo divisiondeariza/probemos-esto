@@ -3,7 +3,10 @@
    "value": "File",
    "popup": {
      "menuitem": [
-       {"name":"DIRECTORIO", "backgroundColor":"#E03D76", "subDirName":"/menu", "filename":"directorio"}
+       {"name":"DIRECTORIO", "backgroundColor":"#E03D76", "subDirName":"/menu", "filename":"directorio"},
+       {"name":"Directorio Prueba1", "backgroundColor":"#A9A9F5", "subDirName":"/menu", "filename":"directorio"},
+       {"name":"Directorio Prueba2", "backgroundColor":"#F5D0A9", "subDirName":"/menu", "filename":"directorio"},
+        {"name":"Directorio Prueba3", "backgroundColor":"#FA58D0", "subDirName":"/menu", "filename":"directorio"}
      ]
    }
  }
