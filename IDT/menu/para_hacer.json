@@ -11,9 +11,9 @@
        {"name":"Lujo", "backgroundColor":"#00902F", "subDirName":"/menu/para_hacer", "filename":"lujo.json"},
        {"name":"Bogotá verde", "backgroundColor":"#4AA82C", "subDirName":"/menu/para_hacer", "filename":"bogota_verde.json"},
        {"name":"Diversión", "backgroundColor":"#01698C", "subDirName":"/menu/para_hacer", "filename":"diversion.json"},
-       {"name":"Golf", "backgroundColor":"#0082B3", "subDirName":"/menu/para_hacer", "filename":"golf.json"}
-       {"name":"Prueba1", "backgroundColor":"#4000FF", "subDirName":"/menu/para_hacer", "filename":"golf.json"}
-       {"name":"Prueba2", "backgroundColor":"#04B45F", "subDirName":"/menu/para_hacer", "filename":"golf.json"}
+       {"name":"Golf", "backgroundColor":"#0082B3", "subDirName":"/menu/para_hacer", "filename":"golf.json"},
+       {"name":"Prueba1", "backgroundColor":"#4000FF", "subDirName":"/menu/para_hacer", "filename":"golf.json"},
+       {"name":"Prueba2", "backgroundColor":"#04B45F", "subDirName":"/menu/para_hacer", "filename":"golf.json"},
        {"name":"Prueba3", "backgroundColor":"#B40431", "subDirName":"/menu/para_hacer", "filename":"golf.json"}
      ]
    }
