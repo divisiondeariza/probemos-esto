@@ -15,7 +15,8 @@
        {"name":"Galerías - Campín", "backgroundColor":"#9AA27B", "subDirName":"/menu/zonas_turisticas", "filename":"galerias_-_campin.json"},
        {"name":"20 de Julio", "backgroundColor":"#8FA634", "subDirName":"/menu/zonas_turisticas", "filename":"20_de_julio.json"},
        {"name":"Aeropuerto", "backgroundColor":"#7A8E09", "subDirName":"/menu/zonas_turisticas", "filename":"aeropuerto.json"},
-       {"name":"Alrededores", "backgroundColor":"#2D8C0A", "subDirName":"/menu/zonas_turisticas", "filename":"alrededores.json"}
+       {"name":"Alrededores", "backgroundColor":"#2D8C0A", "subDirName":"/menu/zonas_turisticas", "filename":"alrededores.json"},
+       {"name":"Candelaria", "backgroundColor":"#58ACFA", "subDirName":"/menu/zonas_turisticas", "filename":"alrededores.json"}
      ]
    }
  }
